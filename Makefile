@@ -71,7 +71,7 @@ TAR ?= tar
 TARFLAGS += -cvf
 
 #python
-PYTHON ?= python3
+PYTHON ?= python3 # yeah no shit python is python
 
 # venv location
 VENV := venv
